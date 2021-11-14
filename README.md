@@ -1,2 +1,2 @@
-# photo-size-editor
+# photoSizeEditor
 Created with CodeSandbox

@@ -1,0 +1,25 @@
+.landing-page-container {
+  position: relative;
+  height: 81vh;
+  text-align: center;
+  padding: 10px 10%;
+}
+.landing-page-container .link {
+  display: flex;
+  width: 80%;
+  margin: 5% auto;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.landing-page-container a {
+  text-decoration: none;
+  color: #fff;
+  background: #a12568;
+  padding: 10px 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #999;
+  display: block;
+  margin: 10px;
+  width: 200px;
+}
